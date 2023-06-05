@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "skinsight-79d06",
+  "private_key_id": "8d76c80b267621c669a1bffef35a352dd0b760d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWgkfvJWfEmaBr\nr2w77+5pziUBeSZqXHgXhvure3Tay+yv1n7OUkzMZ9rf9yBtLvF/I9SqQ9AhS8nC\nmmltzILTgriJlqAgDTgWp9FfXieGP/iJRjVGTFAwIcTOnUCgddQmMjkJQMbJ5jrR\nAduw5Iqu4HAuqpYUixCIw8lgAsoC8Z+SR7sxtTFPJrcuJVKiebkyjaduGnBk7+Rj\nxZ0D+AaYkDxJQjsFEdtaXdOlAq5idQippYwXAKW9UglUgDs3jdu+v1P3J6psFvzh\noIktveavq6PSfVlOTyOjsloNJsjmzQvOvZZgiJN8mjP6bfFINlVoBoboxElNR0P/\nsmlepYYzAgMBAAECggEAAcJNUMaLfrSAExtAq8nMa96RHEs50aNncwrxK+NjRJZ+\niSayq7Gf029zkzAUjLj5Xtjy/2WP7BKNwAXXiOCdyWAIqIOQpMz3UjPkCSzwT75H\ny2N9KudfRosENE/3dVHEWy2jOgJi3hXpPaI7kZAJEgjb5H6WBt5vxWOz0JQ6DSxP\nS+XblvU6Dx42pKfJplIKt2Jh/PHhhWz7I3dh5X8aLau84CZTgcQQWrW1P/CtG1MN\nznm1oiDb7gAlLrSMRckTvQRIOI9UstTgXr6yjwZk/74FoiJgLpuD9PMxa9yQ5ISB\neBwPW0q4ivfz4qUlabVlO+CJih3olThKiG0U5WoOaQKBgQDEk8mvvs8FIx2Nl3hQ\nu0lTGfIiBuogk+TR2JoU3acdr3oPHwy1Sels9fwtDxWzf+mLs8VfLFDqTayHM8N2\nZKiSdDNEG+ld9lGO0PhHw1CQ2dxN5MKeXLp3kwWIN1qFP3ZS9GqTcGGe/t/1fFi1\ny/7aOoUN4+h3G5jQlibSVLB76QKBgQDEAXkJDSl9xvVCgk+CvQLuOdrIKhdmFX0x\nMQPgGAo1W+aCMZEArMMeLgYJQTjP0PGf7Ql3AQLXfLRSEmhbqso6rEGXZMmcsZkZ\nrY7S5pAu5hvYa0FkjLH3wcsWSYr6yVJJNCbteipODOy9EC5H1C89cbfoxN69Egr5\nJylQECgLuwKBgHfzDiCVN9GUqdXaVWo9vfJdZKhqu7aBSCDcILkWv4CXsM1FTwXY\nQf1g5C3ChKVxKds7KPZ4Hi+6kco2RdEaftpO2XF37qCNSxrwXG+9uI2KwqktK6xi\nPM32AmwqCqxAGz1nMxkgfBD+yT4MUD0uayZSixn8tb7oMgkldi7lyoLxAoGAaiRq\nCQ7Jo0U019l9eU0l4yANbEvu8+c7LoJemOIr1Q15XJO+9GCaISPHPQfG3jNGRda1\nQ26WvV7Yv4EcZlesv+08b+GylFpQkGk+aNNWzS7rcV1TwkG2tnaJpf4ZdwnCt8W4\nNu3rLu0s3o1+ooMzOdD1SOYjwLuemaItax/0r7UCgYEAt2D9iqEtBgTk7GDy2y7h\nzrpOgT8+qv9eYGvd1gfnh+ThJgpMv5H9IWNI727RTrjmo0XD6MV7M2elGrDjxUdn\nHjPZ0Yv51Y6cAsRczzymQ2kJLWptS5os39VDRYHYldQSuGd95ab9iJmcfSrj9UtC\nFVT5E0c2A95Vou3td5lv5io=\n-----END PRIVATE KEY-----\n",
+  "client_email": "skin-sgiht-service-account@skinsight-79d06.iam.gserviceaccount.com",
+  "client_id": "111384708133126154846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/skin-sgiht-service-account%40skinsight-79d06.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
